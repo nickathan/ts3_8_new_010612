@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ts3.DataSet1" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAwAAAAJAhAAAQAAAAAgCQBgAAAAAAAECBBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ts3.DialogBox1" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>T7QMgAQgAWEYABzQnLSDAEISAem9JtAEsLQK5AEQhMc=</HashCode>
+      <FileName>DialogBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ts3.DialogBox2" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAgCEAABEAAACABIASAAAIAFACAEAQAAwAAAA=</HashCode>
+      <FileName>DialogBox2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ts3.DialogBox4" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAQAgCAAABEAEACEAMgCAAAAAEACAAAQAAQAAAA=</HashCode>
+      <FileName>DialogBox4.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ts3.TableDisplay" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>8yXD1/1Rh2s+qN+n8rqdn2x6+O7/v12P/HG9v0XGt7Y=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ts3.draw1" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>rQBxxFOlpNSL+JaoZXvtnAIAhVd1gYk46EH+wYoJIw4=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ts3.test1" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ts3.Form2" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QSAAAIUBgSECIFCCEDCQhABSYMA9EABhEHBOAIACAIo=</HashCode>
+      <FileName>Form2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ts3.Properties.Resources" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

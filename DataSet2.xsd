@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet2" targetNamespace="http://tempuri.org/DataSet2.xsd" xmlns:mstns="http://tempuri.org/DataSet2.xsd" xmlns="http://tempuri.org/DataSet2.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet2" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_DataSetName="DataSet2" msprop:Generator_UserDSName="DataSet2">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="JOKER1" msprop:Generator_TableClassName="JOKER1DataTable" msprop:Generator_TableVarName="tableJOKER1" msprop:Generator_RowChangedName="JOKER1RowChanged" msprop:Generator_TablePropName="JOKER1" msprop:Generator_RowDeletingName="JOKER1RowDeleting" msprop:Generator_RowChangingName="JOKER1RowChanging" msprop:Generator_RowEvHandlerName="JOKER1RowChangeEventHandler" msprop:Generator_RowDeletedName="JOKER1RowDeleted" msprop:Generator_RowClassName="JOKER1Row" msprop:Generator_UserTableName="JOKER1" msprop:Generator_RowEvArgName="JOKER1RowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="DATE" msprop:Generator_ColumnVarNameInTable="columnDATE" msprop:Generator_ColumnPropNameInRow="DATE" msprop:Generator_ColumnPropNameInTable="DATEColumn" msprop:Generator_UserColumnName="DATE" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="NUMBER1" msprop:Generator_ColumnVarNameInTable="columnNUMBER1" msprop:Generator_ColumnPropNameInRow="NUMBER1" msprop:Generator_ColumnPropNameInTable="NUMBER1Column" msprop:Generator_UserColumnName="NUMBER1" type="xs:int" minOccurs="0" />
+              <xs:element name="NUMBER2" msprop:Generator_ColumnVarNameInTable="columnNUMBER2" msprop:Generator_ColumnPropNameInRow="NUMBER2" msprop:Generator_ColumnPropNameInTable="NUMBER2Column" msprop:Generator_UserColumnName="NUMBER2" type="xs:int" minOccurs="0" />
+              <xs:element name="NUMBER3" msprop:Generator_ColumnVarNameInTable="columnNUMBER3" msprop:Generator_ColumnPropNameInRow="NUMBER3" msprop:Generator_ColumnPropNameInTable="NUMBER3Column" msprop:Generator_UserColumnName="NUMBER3" type="xs:int" minOccurs="0" />
+              <xs:element name="ID1" msdata:AutoIncrement="true" msprop:Generator_ColumnVarNameInTable="columnID1" msprop:Generator_ColumnPropNameInRow="ID1" msprop:Generator_ColumnPropNameInTable="ID1Column" msprop:Generator_UserColumnName="ID1" type="xs:int" />
+              <xs:element name="JOKERNUMBER" msprop:Generator_ColumnVarNameInTable="columnJOKERNUMBER" msprop:Generator_ColumnPropNameInRow="JOKERNUMBER" msprop:Generator_ColumnPropNameInTable="JOKERNUMBERColumn" msprop:Generator_UserColumnName="JOKERNUMBER" type="xs:int" minOccurs="0" />
+              <xs:element name="NUMBER5" msprop:Generator_ColumnVarNameInTable="columnNUMBER5" msprop:Generator_ColumnPropNameInRow="NUMBER5" msprop:Generator_ColumnPropNameInTable="NUMBER5Column" msprop:Generator_UserColumnName="NUMBER5" type="xs:int" minOccurs="0" />
+              <xs:element name="NUMBER4" msprop:Generator_ColumnVarNameInTable="columnNUMBER4" msprop:Generator_ColumnPropNameInRow="NUMBER4" msprop:Generator_ColumnPropNameInTable="NUMBER4Column" msprop:Generator_UserColumnName="NUMBER4" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:JOKER1" />
+      <xs:field xpath="mstns:ID1" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>
